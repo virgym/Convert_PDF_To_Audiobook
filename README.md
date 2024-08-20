@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 ## Usage
 1. Run the application:
     ```bash
-    python app.py
+    python pdf_to_audiobook.py
     ```
 2. The app will open in your web browser. You can upload a PDF, choose the voice (male or female), and generate the audiobook.
 <p align='center'>
@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 
 3. Once the conversion is complete, you can download the audiobook in MP3 format.
 <p align='center'>
-  <img src='/Capture_UI.PNG' alt='Book Price Alert'/>
+  <img src='/Capture.PNG' alt='Book Price Alert'/>
 </p>
 
 ## Author
