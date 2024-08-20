@@ -44,8 +44,16 @@ To run this project locally, follow these steps:
   <img src='/Capture_UI.PNG' alt='Book Price Alert'/>
 </p>
 
+### Demo audiobooks
+- Female voice
 <audio controls>
-  <source src="audiobook.mp3" type="audio/mpeg">
+  <source src="audiobook_female.mp3" type="audio/mpeg">
+  Your browser does not support the audio audio.
+</audio>
+
+- Male voice
+<audio controls>
+  <source src="audiobook_male.mp3" type="audio/mpeg">
   Your browser does not support the audio audio.
 </audio>
 
