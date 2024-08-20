@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pdf-to-audiobook.git
+   git clone https://github.com/virgym/Convert_PDF_to_Audiobook.git
    ```
    
 2. Create a virtual environment and activate it:
